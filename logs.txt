@@ -578,3 +578,61 @@
 2021-12-02 18:46:41.925 simulation Partie terminée en 13 coups
 2021-12-02 18:46:41.951 simulation Le joueur a gagné la partie.
 2021-12-02 18:46:41.952 simulation Durée de la partie: 00:00.043
+2021-12-02 20:52:07.675 simulation nouvelle tentative
+2021-12-02 20:52:07.694 robot Le joueur a choisit 5000
+2021-12-02 20:52:07.695 robot Raté! Le nombre cherché est plus petit
+2021-12-02 20:52:07.695 simulation Le joueur s'est trompé.
+2021-12-02 20:52:07.696 simulation nouvelle tentative
+2021-12-02 20:52:07.696 robot Le joueur a choisit 2500
+2021-12-02 20:52:07.696 robot Raté! Le nombre cherché est plus petit
+2021-12-02 20:52:07.696 simulation Le joueur s'est trompé.
+2021-12-02 20:52:07.697 simulation nouvelle tentative
+2021-12-02 20:52:07.697 robot Le joueur a choisit 1250
+2021-12-02 20:52:07.697 robot Raté! Le nombre cherché est plus petit
+2021-12-02 20:52:07.697 simulation Le joueur s'est trompé.
+2021-12-02 20:52:07.698 simulation nouvelle tentative
+2021-12-02 20:52:07.698 robot Le joueur a choisit 625
+2021-12-02 20:52:07.698 robot Raté! Le nombre cherché est plus grand
+2021-12-02 20:52:07.698 simulation Le joueur s'est trompé.
+2021-12-02 20:52:07.699 simulation nouvelle tentative
+2021-12-02 20:52:07.699 robot Le joueur a choisit 937
+2021-12-02 20:52:07.699 robot Raté! Le nombre cherché est plus grand
+2021-12-02 20:52:07.699 simulation Le joueur s'est trompé.
+2021-12-02 20:52:07.699 simulation nouvelle tentative
+2021-12-02 20:52:07.700 robot Le joueur a choisit 1093
+2021-12-02 20:52:07.700 robot Raté! Le nombre cherché est plus grand
+2021-12-02 20:52:07.700 simulation Le joueur s'est trompé.
+2021-12-02 20:52:07.700 simulation nouvelle tentative
+2021-12-02 20:52:07.701 robot Le joueur a choisit 1171
+2021-12-02 20:52:07.701 robot Raté! Le nombre cherché est plus grand
+2021-12-02 20:52:07.701 simulation Le joueur s'est trompé.
+2021-12-02 20:52:07.701 simulation nouvelle tentative
+2021-12-02 20:52:07.702 robot Le joueur a choisit 1210
+2021-12-02 20:52:07.702 robot Raté! Le nombre cherché est plus grand
+2021-12-02 20:52:07.702 simulation Le joueur s'est trompé.
+2021-12-02 20:52:07.703 simulation nouvelle tentative
+2021-12-02 20:52:07.703 robot Le joueur a choisit 1230
+2021-12-02 20:52:07.703 robot Raté! Le nombre cherché est plus grand
+2021-12-02 20:52:07.704 simulation Le joueur s'est trompé.
+2021-12-02 20:52:07.704 simulation nouvelle tentative
+2021-12-02 20:52:07.704 robot Le joueur a choisit 1240
+2021-12-02 20:52:07.704 robot Raté! Le nombre cherché est plus petit
+2021-12-02 20:52:07.705 simulation Le joueur s'est trompé.
+2021-12-02 20:52:07.705 simulation nouvelle tentative
+2021-12-02 20:52:07.705 robot Le joueur a choisit 1235
+2021-12-02 20:52:07.705 robot Raté! Le nombre cherché est plus petit
+2021-12-02 20:52:07.706 simulation Le joueur s'est trompé.
+2021-12-02 20:52:07.706 simulation nouvelle tentative
+2021-12-02 20:52:07.706 robot Le joueur a choisit 1232
+2021-12-02 20:52:07.707 robot Raté! Le nombre cherché est plus grand
+2021-12-02 20:52:07.707 simulation Le joueur s'est trompé.
+2021-12-02 20:52:07.707 simulation nouvelle tentative
+2021-12-02 20:52:07.707 robot Le joueur a choisit 1233
+2021-12-02 20:52:07.707 robot Raté! Le nombre cherché est plus grand
+2021-12-02 20:52:07.708 simulation Le joueur s'est trompé.
+2021-12-02 20:52:07.708 simulation nouvelle tentative
+2021-12-02 20:52:07.708 robot Le joueur a choisit 1234
+2021-12-02 20:52:07.708 simulation Le joueur a trouvé le bon nombre.
+2021-12-02 20:52:07.709 simulation Partie terminée en 13 coups
+2021-12-02 20:52:07.745 simulation Le joueur a gagné la partie.
+2021-12-02 20:52:07.747 simulation Durée de la partie: 00:00.047
