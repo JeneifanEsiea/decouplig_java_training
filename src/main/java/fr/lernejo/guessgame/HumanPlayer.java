@@ -20,9 +20,12 @@ public class HumanPlayer implements Player {
         if (lowerOrGreater) {
             logger.log("le joueur a raté");
             System.out.println("Raté! Essaie encore.");
+            this.logger.log("Raté! Le nombre cherché est plus grand");
         } else {
             logger.log("le joueur a gagné");
             System.out.println("Bravo! Tu as trouvé l'age du capitaine.");
+            this.logger.log("Raté! Le nombre cherché est plus petit");
         }
     }
 }
+
